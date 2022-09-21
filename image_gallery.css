@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.c1{
+    border: 1px solid grey;
+}
+.a1{
+    font-weight: bold ;
+}
+.a2{
+    font-size: 20px;
+}
+
+.container{
+    width:100%;
+    
+}
+.container2{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 1300px;
+    height: 1024px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.f1{
+    font-weight:bold;
+}
+.f2{
+    font-weight:bold;
+    background-color: rgb(236, 236, 157);
+    border-radius: 5px;
+    width: 60px;
+    height: 35px;
+    float: right;
+}
