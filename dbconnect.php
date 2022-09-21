@@ -1,5 +1,5 @@
 <?php
-    // session-start();
+    session_start();
 class data
     {
         private $db_host="localhost";

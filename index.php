@@ -1,6 +1,6 @@
 <?php 
     session_start();
-    include("header.php");
+    include("home.php");
     include("dbconnect.php");
     
     $ob=new data();
